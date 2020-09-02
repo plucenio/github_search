@@ -1,5 +1,5 @@
 import 'package:dartz/dartz.dart';
-import 'package:github_serach/modules/search/domain/repositories/search_repository.dart';
+import 'package:github_serach/modules/search/domain/repositories/i_search_repository.dart';
 import '../entities/result_serach.dart';
 import '../errors/errors.dart';
 

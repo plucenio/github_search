@@ -2,7 +2,7 @@ import 'package:dartz/dartz.dart';
 import 'package:flutter_test/flutter_test.dart';
 import 'package:github_serach/modules/search/domain/entities/result_serach.dart';
 import 'package:github_serach/modules/search/domain/errors/errors.dart';
-import 'package:github_serach/modules/search/domain/repositories/search_repository.dart';
+import 'package:github_serach/modules/search/domain/repositories/i_search_repository.dart';
 import 'package:github_serach/modules/search/domain/usecases/serach_by_text.dart';
 import 'package:mockito/mockito.dart';
 
